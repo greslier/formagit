@@ -1,5 +1,5 @@
 function hello()
- {
-	console.log("Bonjour tout le monde-conflit)";
+        {
+	console.log("Bonjour tout le monde-conflit resolu");
 	}
 hello();
