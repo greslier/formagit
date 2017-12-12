@@ -1,5 +1,5 @@
 function hello()
  {
-	console.log("Bonjour conflictuel tout le monde);
+	console.log("Bonjour tout le monde - conflit resolu);
 	}
 hello();
